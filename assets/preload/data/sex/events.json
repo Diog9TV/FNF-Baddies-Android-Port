@@ -1,0 +1,389 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "jazzRoom",
+		"player1": "novaBed",
+		"player2": "jazzBed",
+		"player3": null,
+		"events": [
+			[
+				76800,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				78900,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				81300,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				82800,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				83700,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				86250,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				103050,
+				[
+					[
+						"Change Character",
+						"1",
+						"hornyJail"
+					]
+				]
+			],
+			[
+				103200,
+				[
+					[
+						"Play Animation",
+						"horn",
+						"Dad"
+					]
+				]
+			],
+			[
+				103800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						"0.1"
+					]
+				]
+			],
+			[
+				104400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						"0.1"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						"0.1"
+					]
+				]
+			],
+			[
+				105450,
+				[
+					[
+						"Change Character",
+						"1",
+						"jazzBed"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.3"
+					]
+				]
+			],
+			[
+				107400,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.3"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.2"
+					]
+				]
+			],
+			[
+				109950,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.3"
+					]
+				]
+			],
+			[
+				110550,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.2"
+					]
+				]
+			],
+			[
+				117000,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.3"
+					]
+				]
+			],
+			[
+				117750,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.2"
+					]
+				]
+			],
+			[
+				119550,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.3"
+					]
+				]
+			],
+			[
+				120150,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.2"
+					]
+				]
+			],
+			[
+				124350,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.2"
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"0.2"
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.2"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"0.2"
+					]
+				]
+			],
+			[
+				136800,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.2"
+					]
+				]
+			],
+			[
+				139200,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"0.2"
+					]
+				]
+			],
+			[
+				141600,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.2"
+					]
+				]
+			],
+			[
+				143850,
+				[
+					[
+						"Change Scroll Speed",
+						"0.3",
+						"2"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				146400,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				151350,
+				[
+					[
+						"Change Character",
+						"1",
+						"jazzpapi"
+					]
+				]
+			],
+			[
+				151500,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "noGF",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "sex"
+	}
+}
