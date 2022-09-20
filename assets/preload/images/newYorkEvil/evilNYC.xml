@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="evilNYC.png">
+<SubTexture name="evilAds0000" x="0" y="0" width="1251" height="932" frameX="-92" frameY="-56" frameWidth="2689" frameHeight="1980" />
+<SubTexture name="evilAds0001" x="1251" y="0" width="1251" height="932" frameX="-92" frameY="-56" frameWidth="2689" frameHeight="1980" />
+<SubTexture name="evilAds0002" x="0" y="932" width="1251" height="932" frameX="-92" frameY="-56" frameWidth="2689" frameHeight="1980" />
+<SubTexture name="evilAds0003" x="1251" y="932" width="1251" height="932" frameX="-92" frameY="-56" frameWidth="2689" frameHeight="1980" />
+</TextureAtlas>
