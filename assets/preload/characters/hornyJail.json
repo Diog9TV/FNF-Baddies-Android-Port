@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				154,
+				177
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "horn",
+			"loop": false,
+			"name": "horny"
+		},
+		{
+			"offsets": [
+				-20,
+				164
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "horny"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hornyJail",
+	"position": [
+		-450,
+		390
+	],
+	"healthicon": "jazzbed",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		155,
+		255
+	],
+	"camera_position": [
+		10,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

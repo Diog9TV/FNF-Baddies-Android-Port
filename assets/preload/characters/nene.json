@@ -1,0 +1,73 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				-10
+			],
+			"anim": "kiss",
+			"fps": 24,
+			"name": "neneKiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				-9
+			],
+			"indices": [
+				14,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 16,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "nene"
+		},
+		{
+			"offsets": [
+				100,
+				-9
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 16,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "nene"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/neneHaha",
+	"position": [
+		310,
+		10
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-180,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

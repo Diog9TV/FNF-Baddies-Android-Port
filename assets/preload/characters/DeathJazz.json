@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				310,
+				-118
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "deadLoop"
+		},
+		{
+			"offsets": [
+				310,
+				-111
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "deadConfirm"
+		},
+		{
+			"offsets": [
+				310,
+				-110
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "firstDeath"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DeathJazz",
+	"position": [
+		10,
+		220
+	],
+	"healthicon": "novaBed",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		176,
+		255
+	],
+	"camera_position": [
+		160,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

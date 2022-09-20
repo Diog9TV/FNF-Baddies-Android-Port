@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				-10
+			],
+			"anim": "kiss",
+			"fps": 12,
+			"name": "neneKiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				-9
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "neneKiss"
+		},
+		{
+			"offsets": [
+				100,
+				-9
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "neneKiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/neneTroll",
+	"position": [
+		310,
+		10
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-180,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-25,
+				161
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "papi",
+			"loop": false,
+			"name": "dontStop"
+		},
+		{
+			"offsets": [
+				-15,
+				161
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "dontStop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jazzdont",
+	"position": [
+		20,
+		400
+	],
+	"healthicon": "jasmine",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		155,
+		255
+	],
+	"camera_position": [
+		80,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

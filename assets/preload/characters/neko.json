@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-35,
+				237
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				30,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				41,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-1,
+				134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-131,
+				156
+			],
+			"anim": "stab",
+			"fps": 24,
+			"name": "stab",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				151
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NekoFreak",
+	"position": [
+		-120,
+		390
+	],
+	"healthicon": "lia",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		204,
+		153
+	],
+	"camera_position": [
+		80,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
