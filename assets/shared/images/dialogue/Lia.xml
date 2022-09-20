@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Lia.png">
+<SubTexture name="hello0000" x="0" y="0" width="1191" height="1132" frameX="0" frameY="0" frameWidth="1191" frameHeight="1132" />
+<SubTexture name="hello0001" x="0" y="1132" width="1181" height="1127" frameX="-5" frameY="-5" frameWidth="1191" frameHeight="1132" />
+<SubTexture name="normal0000" x="2410" y="0" width="1235" height="1123" frameX="0" frameY="-7" frameWidth="1235" frameHeight="1130" />
+<SubTexture name="normal0001" x="1191" y="0" width="1219" height="1128" frameX="-6" frameY="-2" frameWidth="1235" frameHeight="1130" />
+<SubTexture name="shadow0000" x="2410" y="1123" width="1080" height="1070" frameX="0" frameY="0" frameWidth="1080" frameHeight="1070" />
+</TextureAtlas>

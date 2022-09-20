@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="novaBed.png">
+<SubTexture name="novaBed0000" x="0" y="0" width="725" height="991" frameX="0" frameY="0" frameWidth="725" frameHeight="991" />
+<SubTexture name="novaBedSpit0000" x="725" y="0" width="725" height="991" frameX="0" frameY="0" frameWidth="725" frameHeight="991" />
+</TextureAtlas>

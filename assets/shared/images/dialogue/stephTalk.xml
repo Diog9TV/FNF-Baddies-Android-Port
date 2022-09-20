@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stephTalk.png">
+<SubTexture name="stephANGRY0000" x="0" y="947" width="671" height="920" frameX="0" frameY="0" frameWidth="682" frameHeight="921" />
+<SubTexture name="stephANGRY0001" x="671" y="947" width="679" height="912" frameX="-3" frameY="-8" frameWidth="682" frameHeight="921" />
+<SubTexture name="stephAnnoyed0000" x="1133" y="0" width="568" height="933" frameX="-7" frameY="0" frameWidth="584" frameHeight="933" />
+<SubTexture name="stephAnnoyed0001" x="1701" y="0" width="572" height="925" frameX="-12" frameY="-8" frameWidth="584" frameHeight="933" />
+<SubTexture name="stephHorn0000" x="0" y="1867" width="871" height="814" frameX="-22" frameY="0" frameWidth="897" frameHeight="815" />
+<SubTexture name="stephHorn0001" x="871" y="1867" width="897" height="808" frameX="0" frameY="-6" frameWidth="897" frameHeight="815" />
+<SubTexture name="stephNormal0000" x="1350" y="947" width="691" height="835" frameX="-12" frameY="0" frameWidth="706" frameHeight="836" />
+<SubTexture name="stephNormal0001" x="2273" y="0" width="706" height="823" frameX="0" frameY="-12" frameWidth="706" frameHeight="836" />
+<SubTexture name="stephShy0000" x="0" y="0" width="563" height="947" frameX="0" frameY="0" frameWidth="571" frameHeight="947" />
+<SubTexture name="stephShy0001" x="563" y="0" width="570" height="938" frameX="0" frameY="-8" frameWidth="571" frameHeight="947" />
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfTalk.png">
+<SubTexture name="bfNormal0000" x="0" y="894" width="720" height="875" frameX="-3" frameY="0" frameWidth="723" frameHeight="875" />
+<SubTexture name="bfNormal0001" x="0" y="894" width="720" height="875" frameX="-3" frameY="0" frameWidth="723" frameHeight="875" />
+<SubTexture name="bfNormal0002" x="720" y="894" width="715" height="870" frameX="-1" frameY="-5" frameWidth="723" frameHeight="875" />
+<SubTexture name="bfNormal0003" x="720" y="894" width="715" height="870" frameX="-1" frameY="-4" frameWidth="723" frameHeight="875" />
+<SubTexture name="bfNormal0004" x="1435" y="894" width="711" height="867" frameX="0" frameY="-8" frameWidth="723" frameHeight="875" />
+<SubTexture name="bfNormal0005" x="1435" y="894" width="711" height="867" frameX="0" frameY="-7" frameWidth="723" frameHeight="875" />
+<SubTexture name="bfWhat0000" x="0" y="0" width="756" height="894" frameX="-3" frameY="0" frameWidth="759" frameHeight="894" />
+<SubTexture name="bfWhat0001" x="0" y="0" width="756" height="894" frameX="-3" frameY="0" frameWidth="759" frameHeight="894" />
+<SubTexture name="bfWhat0002" x="756" y="0" width="752" height="893" frameX="-2" frameY="-1" frameWidth="759" frameHeight="894" />
+<SubTexture name="bfWhat0003" x="756" y="0" width="752" height="893" frameX="-2" frameY="-1" frameWidth="759" frameHeight="894" />
+<SubTexture name="bfWhat0004" x="1508" y="0" width="750" height="892" frameX="0" frameY="-2" frameWidth="759" frameHeight="894" />
+<SubTexture name="bfWhat0005" x="1508" y="0" width="750" height="892" frameX="0" frameY="-1" frameWidth="759" frameHeight="894" />
+</TextureAtlas>

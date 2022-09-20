@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfTalk.png">
+<SubTexture name="gfNormal0000" x="681" y="0" width="650" height="742" frameX="0" frameY="0" frameWidth="651" frameHeight="742" />
+<SubTexture name="gfNormal0001" x="681" y="0" width="650" height="742" frameX="0" frameY="0" frameWidth="651" frameHeight="742" />
+<SubTexture name="gfNormal0002" x="0" y="829" width="646" height="738" frameX="-3" frameY="-4" frameWidth="651" frameHeight="742" />
+<SubTexture name="gfNormal0003" x="0" y="829" width="646" height="738" frameX="-3" frameY="-3" frameWidth="651" frameHeight="742" />
+<SubTexture name="gfNormal0004" x="1325" y="829" width="639" height="735" frameX="-8" frameY="-7" frameWidth="651" frameHeight="742" />
+<SubTexture name="gfNormal0005" x="1325" y="829" width="639" height="735" frameX="-8" frameY="-7" frameWidth="651" frameHeight="742" />
+<SubTexture name="gfNormal0006" x="2019" y="735" width="638" height="734" frameX="-9" frameY="-8" frameWidth="651" frameHeight="742" />
+<SubTexture name="gfRatio0000" x="0" y="0" width="681" height="829" frameX="0" frameY="0" frameWidth="681" frameHeight="830" />
+<SubTexture name="gfSus0000" x="1331" y="0" width="688" height="742" frameX="0" frameY="0" frameWidth="688" frameHeight="742" />
+<SubTexture name="gfSus0001" x="1331" y="0" width="688" height="742" frameX="0" frameY="0" frameWidth="688" frameHeight="742" />
+<SubTexture name="gfSus0002" x="646" y="829" width="679" height="738" frameX="-8" frameY="-4" frameWidth="688" frameHeight="742" />
+<SubTexture name="gfSus0003" x="646" y="829" width="679" height="738" frameX="-8" frameY="-3" frameWidth="688" frameHeight="742" />
+<SubTexture name="gfSus0004" x="2019" y="0" width="669" height="735" frameX="-16" frameY="-7" frameWidth="688" frameHeight="742" />
+<SubTexture name="gfSus0005" x="2019" y="0" width="669" height="735" frameX="-16" frameY="-7" frameWidth="688" frameHeight="742" />
+<SubTexture name="gfSus0006" x="0" y="1567" width="668" height="734" frameX="-16" frameY="-8" frameWidth="688" frameHeight="742" />
+</TextureAtlas>

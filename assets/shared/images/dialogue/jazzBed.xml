@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jazzBed.png">
+<SubTexture name="jazzBed0000" x="810" y="965" width="936" height="897" frameX="-3" frameY="0" frameWidth="943" frameHeight="897" />
+<SubTexture name="jazzBed0001" x="2664" y="0" width="935" height="889" frameX="0" frameY="-8" frameWidth="943" frameHeight="897" />
+<SubTexture name="jazzBedShy0000" x="924" y="0" width="916" height="959" frameX="-14" frameY="-3" frameWidth="932" frameHeight="969" />
+<SubTexture name="jazzBedShy0001" x="0" y="0" width="924" height="965" frameX="0" frameY="-4" frameWidth="932" frameHeight="969" />
+<SubTexture name="jazzCondom0000" x="1840" y="0" width="824" height="907" frameX="-6" frameY="-6" frameWidth="836" frameHeight="913" />
+<SubTexture name="jazzCondom0001" x="0" y="965" width="810" height="906" frameX="-26" frameY="-7" frameWidth="836" frameHeight="913" />
+</TextureAtlas>

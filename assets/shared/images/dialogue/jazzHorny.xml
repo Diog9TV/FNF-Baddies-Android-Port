@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jazzHorny.png">
+<SubTexture name="HORNY0000" x="922" y="0" width="917" height="960" frameX="-14" frameY="-3" frameWidth="932" frameHeight="966" />
+<SubTexture name="HORNY0001" x="0" y="0" width="922" height="961" frameX="-7" frameY="-5" frameWidth="932" frameHeight="966" />
+<SubTexture name="MOUTH ACTION0000" x="1839" y="0" width="913" height="952" frameX="-25" frameY="-4" frameWidth="939" frameHeight="960" />
+<SubTexture name="MOUTH ACTION0001" x="0" y="961" width="926" height="951" frameX="-7" frameY="-9" frameWidth="939" frameHeight="960" />
+<SubTexture name="OOF0000" x="2752" y="920" width="926" height="917" frameX="-4" frameY="-3" frameWidth="939" frameHeight="921" />
+<SubTexture name="OOF0001" x="2752" y="0" width="931" height="920" frameX="-8" frameY="0" frameWidth="939" frameHeight="921" />
+<SubTexture name="hornyNormal0000" x="926" y="961" width="935" height="922" frameX="-16" frameY="0" frameWidth="951" frameHeight="922" />
+<SubTexture name="hornyNormal0001" x="0" y="1912" width="934" height="915" frameX="-11" frameY="-6" frameWidth="951" frameHeight="922" />
+</TextureAtlas>

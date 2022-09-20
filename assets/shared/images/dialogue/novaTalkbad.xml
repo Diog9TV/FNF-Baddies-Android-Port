@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="novaTalkbad.png">
+<SubTexture name="novaBike0000" x="0" y="0" width="1166" height="1071" frameX="-196" frameY="0" frameWidth="1362" frameHeight="1071" />
+<SubTexture name="novaSus0000" x="1166" y="0" width="871" height="957" frameX="-13" frameY="0" frameWidth="884" frameHeight="957" />
+<SubTexture name="novabadTalk0000" x="0" y="1071" width="671" height="957" frameX="0" frameY="0" frameWidth="671" frameHeight="957" />
+</TextureAtlas>

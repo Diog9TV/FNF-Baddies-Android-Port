@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crazySteph.png">
+<SubTexture name="crazyAnnoyed0000" x="0" y="0" width="567" height="928" frameX="0" frameY="0" frameWidth="571" frameHeight="928" />
+<SubTexture name="crazyAnnoyed0001" x="1134" y="0" width="571" height="914" frameX="0" frameY="-13" frameWidth="571" frameHeight="928" />
+<SubTexture name="crazyAss0000" x="1323" y="928" width="914" height="839" frameX="0" frameY="0" frameWidth="916" frameHeight="839" />
+<SubTexture name="crazyAss0001" x="0" y="1837" width="910" height="818" frameX="-6" frameY="-20" frameWidth="916" frameHeight="839" />
+<SubTexture name="crazyCry0000" x="2493" y="0" width="881" height="837" frameX="-1" frameY="0" frameWidth="882" frameHeight="838" />
+<SubTexture name="crazyCry0001" x="2493" y="837" width="881" height="815" frameX="0" frameY="-23" frameWidth="882" frameHeight="838" />
+<SubTexture name="crazyGuh0000" x="1705" y="0" width="788" height="911" frameX="-1" frameY="0" frameWidth="799" frameHeight="911" />
+<SubTexture name="crazyGuh0001" x="570" y="928" width="753" height="898" frameX="-46" frameY="-13" frameWidth="799" frameHeight="911" />
+<SubTexture name="crazyNormal0000" x="567" y="0" width="567" height="927" frameX="-1" frameY="0" frameWidth="571" frameHeight="928" />
+<SubTexture name="crazyNormal0001" x="0" y="928" width="570" height="909" frameX="0" frameY="-18" frameWidth="571" frameHeight="928" />
+</TextureAtlas>
