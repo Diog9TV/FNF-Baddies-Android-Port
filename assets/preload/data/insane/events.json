@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "newYork2",
+		"player1": "bf",
+		"player2": "Stalker",
+		"player3": null,
+		"events": [
+			[
+				117164.909638554,
+				[
+					[
+						"Change Character",
+						"1",
+						"stalkerCutscene"
+					]
+				]
+			],
+			[
+				117198.795180723,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				119819.277108434,
+				[
+					[
+						"Play Animation",
+						"dead",
+						"BF"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 166,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "insane"
+	}
+}
