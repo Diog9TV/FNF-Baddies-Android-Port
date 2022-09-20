@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bullet_Note.png">
+<SubTexture name="blue hold end0000" x="150" y="75" width="50" height="64" frameX="0" frameY="0" frameWidth="50" frameHeight="64" />
+<SubTexture name="blue hold piece0000" x="200" y="75" width="50" height="44" frameX="0" frameY="0" frameWidth="50" frameHeight="44" />
+<SubTexture name="blue0000" x="0" y="0" width="75" height="142" frameX="-41" frameY="-6" frameWidth="157" frameHeight="154" />
+<SubTexture name="green hold end0000" x="150" y="75" width="50" height="64" frameX="0" frameY="0" frameWidth="50" frameHeight="64" />
+<SubTexture name="green hold piece0000" x="200" y="75" width="50" height="44" frameX="0" frameY="0" frameWidth="50" frameHeight="44" />
+<SubTexture name="green0000" x="75" y="0" width="75" height="141" frameX="-48" frameY="-13" frameWidth="157" frameHeight="154" />
+<SubTexture name="purple0000" x="150" y="0" width="142" height="75" frameX="-10" frameY="-39" frameWidth="154" frameHeight="157" />
+<SubTexture name="pruple end hold0000" x="150" y="75" width="50" height="64" frameX="0" frameY="0" frameWidth="50" frameHeight="64" />
+<SubTexture name="purple hold piece0000" x="200" y="75" width="50" height="44" frameX="0" frameY="0" frameWidth="50" frameHeight="44" />
+<SubTexture name="red hold end0000" x="150" y="75" width="50" height="64" frameX="0" frameY="0" frameWidth="50" frameHeight="64" />
+<SubTexture name="red hold piece0000" x="200" y="75" width="50" height="44" frameX="0" frameY="0" frameWidth="50" frameHeight="44" />
+<SubTexture name="red0000" x="0" y="142" width="142" height="75" frameX="-1" frameY="-39" frameWidth="154" frameHeight="157" />
+</TextureAtlas>
