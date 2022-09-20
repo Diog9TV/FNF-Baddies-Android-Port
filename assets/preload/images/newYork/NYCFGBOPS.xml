@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NYCFGBOPS.png">
+<SubTexture name="nycFGBOPS0000" x="0" y="0" width="2096" height="921" frameX="0" frameY="-6" frameWidth="2104" frameHeight="921" />
+<SubTexture name="nycFGBOPS0001" x="0" y="0" width="2096" height="921" frameX="0" frameY="-4" frameWidth="2104" frameHeight="921" />
+<SubTexture name="nycFGBOPS0002" x="0" y="0" width="2096" height="921" frameX="0" frameY="-2" frameWidth="2104" frameHeight="921" />
+<SubTexture name="nycFGBOPS0003" x="0" y="0" width="2096" height="921" frameX="0" frameY="0" frameWidth="2104" frameHeight="921" />
+<SubTexture name="nycFGBOPS0004" x="0" y="0" width="2096" height="921" frameX="0" frameY="0" frameWidth="2104" frameHeight="921" />
+<SubTexture name="nycFGBOPS0005" x="0" y="0" width="2096" height="921" frameX="0" frameY="0" frameWidth="2104" frameHeight="921" />
+<SubTexture name="nycFGBOPS0006" x="0" y="0" width="2096" height="921" frameX="0" frameY="0" frameWidth="2104" frameHeight="921" />
+</TextureAtlas>

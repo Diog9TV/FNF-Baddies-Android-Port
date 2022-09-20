@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NYCSCREENBOPS.png">
+<SubTexture name="nycScreenBops0000" x="0" y="0" width="2380" height="822" frameX="0" frameY="-6" frameWidth="2415" frameHeight="826" />
+<SubTexture name="nycScreenBops0001" x="0" y="0" width="2380" height="822" frameX="0" frameY="-4" frameWidth="2415" frameHeight="826" />
+<SubTexture name="nycScreenBops0002" x="0" y="0" width="2380" height="822" frameX="0" frameY="-2" frameWidth="2415" frameHeight="826" />
+<SubTexture name="nycScreenBops0003" x="0" y="0" width="2380" height="822" frameX="0" frameY="0" frameWidth="2415" frameHeight="826" />
+<SubTexture name="nycScreenBops0004" x="0" y="0" width="2380" height="822" frameX="0" frameY="0" frameWidth="2415" frameHeight="826" />
+<SubTexture name="nycScreenBops0005" x="0" y="0" width="2380" height="822" frameX="0" frameY="0" frameWidth="2415" frameHeight="826" />
+<SubTexture name="nycScreenBops0006" x="0" y="0" width="2380" height="822" frameX="0" frameY="0" frameWidth="2415" frameHeight="826" />
+</TextureAtlas>
