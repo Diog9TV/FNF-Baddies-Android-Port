@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "victoriaSecret",
+		"player1": "Casanova",
+		"player2": "Jasmine",
+		"player3": null,
+		"events": [
+			[
+				83052.6315789474,
+				[
+					[
+						"Change Character",
+						"1",
+						"dontStop"
+					]
+				]
+			],
+			[
+				83210.5263157895,
+				[
+					[
+						"Play Animation",
+						"papi",
+						"Dad"
+					]
+				]
+			],
+			[
+				84789.4736842105,
+				[
+					[
+						"Change Character",
+						"1",
+						"Jasmine"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "JBL",
+		"bpm": 95,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "aye-papi"
+	}
+}
