@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="neko2.png">
+<SubTexture name="soWeak0000" x="683" y="0" width="670" height="490" frameX="0" frameY="-2" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0001" x="0" y="0" width="683" height="493" frameX="0" frameY="0" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0002" x="2792" y="1412" width="715" height="466" frameX="0" frameY="-27" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0003" x="1442" y="2389" width="723" height="469" frameX="0" frameY="-24" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0004" x="0" y="2389" width="723" height="471" frameX="0" frameY="-22" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0005" x="2792" y="0" width="715" height="472" frameX="0" frameY="-21" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0006" x="2792" y="944" width="715" height="468" frameX="0" frameY="-25" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0007" x="0" y="493" width="715" height="476" frameX="0" frameY="-17" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0008" x="710" y="969" width="713" height="473" frameX="0" frameY="-20" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0009" x="0" y="1443" width="712" height="473" frameX="0" frameY="-19" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0010" x="0" y="1443" width="712" height="473" frameX="0" frameY="-19" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0011" x="712" y="1443" width="712" height="473" frameX="0" frameY="-19" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0012" x="2792" y="1878" width="707" height="455" frameX="0" frameY="-38" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0013" x="2165" y="2389" width="705" height="455" frameX="0" frameY="-38" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0014" x="0" y="2860" width="705" height="455" frameX="0" frameY="-38" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0015" x="705" y="2860" width="705" height="455" frameX="0" frameY="-38" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0016" x="705" y="2860" width="705" height="455" frameX="0" frameY="-38" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0017" x="2792" y="472" width="715" height="472" frameX="0" frameY="-22" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0018" x="1353" y="0" width="720" height="474" frameX="0" frameY="-20" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0019" x="2073" y="0" width="719" height="473" frameX="0" frameY="-21" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0020" x="2073" y="473" width="719" height="473" frameX="0" frameY="-21" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0021" x="2073" y="946" width="719" height="473" frameX="0" frameY="-21" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0022" x="2073" y="1419" width="719" height="473" frameX="0" frameY="-20" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0023" x="0" y="1916" width="719" height="473" frameX="0" frameY="-20" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0024" x="719" y="1916" width="719" height="473" frameX="0" frameY="-20" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0025" x="1438" y="1916" width="719" height="473" frameX="0" frameY="-20" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0026" x="1438" y="1916" width="719" height="473" frameX="0" frameY="-20" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0027" x="1438" y="1916" width="719" height="473" frameX="0" frameY="-20" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0028" x="723" y="2389" width="719" height="471" frameX="0" frameY="-23" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0029" x="1353" y="474" width="710" height="474" frameX="0" frameY="-19" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0030" x="0" y="969" width="710" height="474" frameX="0" frameY="-19" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0031" x="0" y="969" width="710" height="474" frameX="0" frameY="-18" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0032" x="0" y="969" width="710" height="474" frameX="0" frameY="-18" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0033" x="0" y="969" width="710" height="474" frameX="0" frameY="-18" frameWidth="902" frameHeight="494" />
+<SubTexture name="soWeak0034" x="0" y="969" width="710" height="474" frameX="0" frameY="-18" frameWidth="902" frameHeight="494" />
+</TextureAtlas>

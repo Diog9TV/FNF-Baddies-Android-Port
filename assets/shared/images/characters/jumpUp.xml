@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jumpUp.png">
+<SubTexture name="newJump0000" x="1721" y="1617" width="419" height="587" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0001" x="2171" y="0" width="428" height="598" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0002" x="0" y="1617" width="434" height="597" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0003" x="863" y="1617" width="431" height="596" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0004" x="2171" y="598" width="422" height="598" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0005" x="1294" y="1617" width="427" height="596" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0006" x="434" y="1617" width="429" height="597" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0007" x="2140" y="1617" width="412" height="572" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0008" x="0" y="884" width="406" height="733" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0009" x="1345" y="0" width="406" height="780" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0010" x="1751" y="0" width="420" height="648" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0011" x="812" y="884" width="420" height="649" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0012" x="812" y="884" width="420" height="649" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0013" x="1232" y="884" width="410" height="649" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0014" x="1751" y="648" width="406" height="637" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0015" x="406" y="884" width="406" height="657" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0016" x="817" y="0" width="528" height="870" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0017" x="0" y="0" width="817" height="884" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0018" x="0" y="2214" width="274" height="385" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0019" x="1434" y="2214" width="265" height="355" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0020" x="2251" y="2214" width="283" height="262" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0021" x="2599" y="0" width="280" height="262" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0022" x="1976" y="2214" width="275" height="272" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0023" x="1699" y="2214" width="277" height="287" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0024" x="1751" y="1285" width="274" height="309" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0025" x="1152" y="2214" width="282" height="369" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0026" x="862" y="2214" width="290" height="383" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0027" x="2171" y="1196" width="294" height="386" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0028" x="274" y="2214" width="294" height="385" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+<SubTexture name="newJump0029" x="568" y="2214" width="294" height="385" frameX="0" frameY="0" frameWidth="873" frameHeight="925" />
+</TextureAtlas>

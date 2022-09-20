@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tankMan.png">
+<SubTexture name="tankmanGF0000" x="1398" y="0" width="703" height="654" frameX="0" frameY="-4" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0001" x="1398" y="654" width="699" height="654" frameX="-2" frameY="-4" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0002" x="699" y="658" width="699" height="657" frameX="-2" frameY="-1" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0003" x="699" y="658" width="699" height="657" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0004" x="0" y="0" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0005" x="0" y="0" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0006" x="699" y="0" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0007" x="699" y="0" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0008" x="0" y="658" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0009" x="0" y="658" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0010" x="0" y="658" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0011" x="0" y="658" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0012" x="0" y="658" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0013" x="699" y="1316" width="699" height="653" frameX="-2" frameY="-5" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0014" x="1398" y="1316" width="703" height="653" frameX="0" frameY="-5" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0015" x="1398" y="0" width="703" height="654" frameX="0" frameY="-3" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0016" x="1398" y="654" width="699" height="654" frameX="-2" frameY="-3" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0017" x="699" y="658" width="699" height="657" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0018" x="699" y="658" width="699" height="657" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0019" x="0" y="0" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0020" x="0" y="0" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0021" x="699" y="0" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0022" x="699" y="0" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0023" x="0" y="658" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0024" x="0" y="658" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0025" x="0" y="658" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0026" x="0" y="658" width="699" height="658" frameX="-2" frameY="0" frameWidth="704" frameHeight="658" />
+<SubTexture name="tankmanGF0027" x="0" y="1316" width="699" height="653" frameX="-2" frameY="-5" frameWidth="704" frameHeight="658" />
+</TextureAtlas>

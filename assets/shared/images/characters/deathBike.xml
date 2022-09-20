@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deathBike.png">
+<SubTexture name="deadConfirm0000" x="490" y="0" width="372" height="426" frameX="-81" frameY="-89" frameWidth="544" frameHeight="1119" />
+<SubTexture name="deadLoop0000" x="0" y="0" width="490" height="489" frameX="-24" frameY="-13" frameWidth="550" frameHeight="517" />
+<SubTexture name="firstDeath0000" x="0" y="0" width="490" height="489" frameX="-24" frameY="-13" frameWidth="550" frameHeight="517" />
+</TextureAtlas>

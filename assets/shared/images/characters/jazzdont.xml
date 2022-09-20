@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jazzdont.png">
+<SubTexture name="dontStop0000" x="1707" y="486" width="379" height="471" frameX="0" frameY="-17" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0001" x="1707" y="486" width="379" height="471" frameX="0" frameY="-17" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0002" x="775" y="976" width="339" height="486" frameX="-19" frameY="-2" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0003" x="0" y="0" width="342" height="488" frameX="-13" frameY="0" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0004" x="342" y="0" width="328" height="488" frameX="-13" frameY="0" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0005" x="0" y="976" width="390" height="487" frameX="-15" frameY="-1" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0006" x="1114" y="976" width="396" height="486" frameX="-13" frameY="-2" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0007" x="1707" y="0" width="394" height="486" frameX="-15" frameY="-2" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0008" x="390" y="976" width="385" height="487" frameX="-18" frameY="-1" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0009" x="670" y="0" width="383" height="488" frameX="-15" frameY="0" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0010" x="0" y="488" width="330" height="488" frameX="-11" frameY="0" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0011" x="330" y="488" width="330" height="488" frameX="-11" frameY="0" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0012" x="660" y="488" width="327" height="488" frameX="-13" frameY="0" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0013" x="1053" y="0" width="327" height="488" frameX="-13" frameY="0" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0014" x="1053" y="488" width="327" height="488" frameX="-13" frameY="0" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0015" x="1380" y="0" width="327" height="488" frameX="-13" frameY="0" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0016" x="1380" y="0" width="327" height="488" frameX="-13" frameY="0" frameWidth="409" frameHeight="488" />
+<SubTexture name="dontStop0017" x="1380" y="0" width="327" height="488" frameX="-13" frameY="0" frameWidth="409" frameHeight="488" />
+</TextureAtlas>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="neneTroll.png">
+<SubTexture name="neneKiss0000" x="0" y="0" width="699" height="663" frameX="0" frameY="0" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0001" x="1398" y="2644" width="699" height="653" frameX="0" frameY="-10" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0002" x="1398" y="2644" width="699" height="653" frameX="0" frameY="-10" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0003" x="699" y="2644" width="699" height="656" frameX="0" frameY="-7" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0004" x="1398" y="661" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0005" x="0" y="1324" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0006" x="2796" y="660" width="699" height="659" frameX="0" frameY="-4" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0007" x="2796" y="1319" width="699" height="659" frameX="0" frameY="-4" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0008" x="699" y="1324" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0009" x="1398" y="1324" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0010" x="2097" y="0" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0011" x="2097" y="660" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0012" x="2097" y="1320" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0013" x="0" y="1984" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0014" x="2097" y="0" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0015" x="2097" y="660" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0016" x="2097" y="1320" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0017" x="0" y="1984" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0018" x="2097" y="0" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0019" x="699" y="1984" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0020" x="2796" y="1978" width="699" height="659" frameX="0" frameY="-4" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0021" x="0" y="2644" width="699" height="658" frameX="0" frameY="-5" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0022" x="1398" y="1984" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0023" x="2097" y="1984" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0024" x="2796" y="0" width="699" height="660" frameX="0" frameY="-3" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0025" x="699" y="0" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0026" x="0" y="663" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0027" x="699" y="663" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0028" x="1398" y="0" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0029" x="699" y="0" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0030" x="699" y="0" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0031" x="0" y="663" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0032" x="699" y="663" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0033" x="1398" y="0" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0034" x="699" y="0" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0035" x="0" y="663" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0036" x="699" y="663" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0037" x="1398" y="0" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0038" x="699" y="0" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0039" x="699" y="0" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0040" x="0" y="663" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+<SubTexture name="neneKiss0041" x="699" y="663" width="699" height="661" frameX="0" frameY="-2" frameWidth="702" frameHeight="666" />
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="neneHaha.png">
+<SubTexture name="nene0000" x="0" y="1329" width="701" height="662" frameX="0" frameY="-3" frameWidth="704" frameHeight="668" />
+<SubTexture name="nene0001" x="701" y="0" width="701" height="664" frameX="0" frameY="-1" frameWidth="704" frameHeight="668" />
+<SubTexture name="nene0002" x="0" y="665" width="701" height="664" frameX="0" frameY="-1" frameWidth="704" frameHeight="668" />
+<SubTexture name="nene0003" x="0" y="0" width="701" height="665" frameX="0" frameY="0" frameWidth="704" frameHeight="668" />
+<SubTexture name="nene0004" x="701" y="665" width="701" height="664" frameX="0" frameY="-1" frameWidth="704" frameHeight="668" />
+<SubTexture name="nene0005" x="1402" y="0" width="701" height="663" frameX="0" frameY="-2" frameWidth="704" frameHeight="668" />
+<SubTexture name="nene0006" x="1402" y="663" width="701" height="663" frameX="0" frameY="-2" frameWidth="704" frameHeight="668" />
+<SubTexture name="nene0007" x="701" y="1329" width="701" height="662" frameX="0" frameY="-3" frameWidth="704" frameHeight="668" />
+<SubTexture name="nene0008" x="701" y="1991" width="701" height="650" frameX="0" frameY="-15" frameWidth="704" frameHeight="668" />
+<SubTexture name="nene0009" x="0" y="1991" width="701" height="652" frameX="0" frameY="-13" frameWidth="704" frameHeight="668" />
+<SubTexture name="nene0010" x="1402" y="1991" width="701" height="649" frameX="0" frameY="-16" frameWidth="704" frameHeight="668" />
+<SubTexture name="nene0011" x="2103" y="1319" width="701" height="655" frameX="0" frameY="-10" frameWidth="704" frameHeight="668" />
+<SubTexture name="nene0012" x="2103" y="660" width="701" height="659" frameX="0" frameY="-6" frameWidth="704" frameHeight="668" />
+<SubTexture name="nene0013" x="2103" y="0" width="701" height="660" frameX="0" frameY="-5" frameWidth="704" frameHeight="668" />
+<SubTexture name="nene0014" x="1402" y="1329" width="701" height="661" frameX="0" frameY="-4" frameWidth="704" frameHeight="668" />
+</TextureAtlas>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfDance.png">
+<SubTexture name="gf idle0000" x="1220" y="706" width="305" height="350" frameX="-1" frameY="-6" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0001" x="644" y="1064" width="307" height="350" frameX="0" frameY="-6" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0002" x="1536" y="349" width="305" height="348" frameX="-1" frameY="-8" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0003" x="1536" y="697" width="305" height="348" frameX="-1" frameY="-8" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0004" x="951" y="1064" width="305" height="349" frameX="-1" frameY="-7" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0005" x="1536" y="0" width="305" height="349" frameX="-1" frameY="-7" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0006" x="915" y="355" width="305" height="354" frameX="-1" frameY="-2" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0007" x="0" y="0" width="305" height="356" frameX="-1" frameY="0" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0008" x="0" y="0" width="305" height="356" frameX="-1" frameY="0" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0009" x="0" y="0" width="305" height="356" frameX="-1" frameY="0" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0010" x="305" y="0" width="305" height="356" frameX="-1" frameY="0" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0011" x="305" y="0" width="305" height="356" frameX="-1" frameY="0" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0012" x="305" y="0" width="305" height="356" frameX="-1" frameY="0" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0013" x="610" y="0" width="305" height="355" frameX="-1" frameY="-1" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0014" x="610" y="0" width="305" height="355" frameX="-1" frameY="-1" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0015" x="0" y="711" width="319" height="353" frameX="-1" frameY="-3" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0016" x="319" y="711" width="320" height="353" frameX="0" frameY="-3" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0017" x="0" y="1064" width="322" height="352" frameX="-1" frameY="-4" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0018" x="322" y="1064" width="322" height="352" frameX="-1" frameY="-4" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0019" x="639" y="711" width="316" height="353" frameX="-1" frameY="-3" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0020" x="1220" y="0" width="316" height="353" frameX="-1" frameY="-3" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0021" x="1220" y="353" width="305" height="353" frameX="-1" frameY="-3" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0022" x="0" y="356" width="305" height="355" frameX="-1" frameY="-1" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0023" x="305" y="356" width="305" height="355" frameX="-1" frameY="-1" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0024" x="305" y="356" width="305" height="355" frameX="-1" frameY="-1" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0025" x="610" y="356" width="305" height="355" frameX="-1" frameY="-1" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0026" x="610" y="356" width="305" height="355" frameX="-1" frameY="-1" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0027" x="610" y="356" width="305" height="355" frameX="-1" frameY="-1" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0028" x="915" y="0" width="305" height="355" frameX="-1" frameY="-1" frameWidth="323" frameHeight="357" />
+<SubTexture name="gf idle0029" x="915" y="0" width="305" height="355" frameX="-1" frameY="-1" frameWidth="323" frameHeight="357" />
+</TextureAtlas>
