@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="myWayOrTheHighway.png">
+<SubTexture name="newGround0000" x="0" y="0" width="1357" height="403" frameX="-156" frameY="-434" frameWidth="1589" frameHeight="841" />
+<SubTexture name="newGround0001" x="0" y="1209" width="1530" height="403" frameX="-29" frameY="-434" frameWidth="1589" frameHeight="841" />
+<SubTexture name="newGround0002" x="0" y="403" width="1567" height="403" frameX="-10" frameY="-434" frameWidth="1589" frameHeight="841" />
+<SubTexture name="newGround0003" x="0" y="806" width="1357" height="403" frameX="-156" frameY="-434" frameWidth="1589" frameHeight="841" />
+</TextureAtlas>

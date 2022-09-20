@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="daLights.png">
+<SubTexture name="lightsMove0000" x="0" y="799" width="935" height="314" frameX="-190" frameY="-87" frameWidth="1317" frameHeight="433" />
+<SubTexture name="lightsMove0001" x="0" y="430" width="1101" height="370" frameX="-107" frameY="-46" frameWidth="1317" frameHeight="433"/>
+<SubTexture name="lightsMove0002" x="0" y="0" width="1283" height="430" frameX="-16" frameY="-0" frameWidth="1317" frameHeight="433" />
+<SubTexture name="lightsMove0003" x="0" y="1113" width="935" height="314" frameX="-190" frameY="-87" frameWidth="1317" frameHeight="433"/>
+</TextureAtlas>

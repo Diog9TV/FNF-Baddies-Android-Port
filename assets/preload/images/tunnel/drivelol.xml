@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="drivelol.png">
+<SubTexture name="car0000" x="0" y="0" width="1037" height="502" frameX="-161" frameY="-82" frameWidth="1409" frameHeight="590" />
+<SubTexture name="car0001" x="0" y="1474" width="1201" height="491" frameX="-89" frameY="-96" frameWidth="1409" frameHeight="590" />
+<SubTexture name="car0002" x="0" y="993" width="1353" height="481" frameX="-22" frameY="-96" frameWidth="1409" frameHeight="590" />
+<SubTexture name="car0003" x="0" y="502" width="1405" height="491" frameX="0" frameY="-86" frameWidth="1409" frameHeight="590" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="heliLmao.png">
+<SubTexture name="helicopterFriends0000" x="0" y="282" width="435" height="279" frameX="-2" frameY="0" frameWidth="542" frameHeight="285" />
+<SubTexture name="helicopterFriends0001" x="0" y="561" width="537" height="277" frameX="0" frameY="-2" frameWidth="542" frameHeight="285" />
+<SubTexture name="helicopterFriends0002" x="0" y="282" width="435" height="279" frameX="-2" frameY="0" frameWidth="542" frameHeight="285" />
+<SubTexture name="helicopterFriends0003" x="435" y="282" width="537" height="279" frameX="0" frameY="-2" frameWidth="542" frameHeight="285" />
+<SubTexture name="helicopterFriends0004" x="0" y="0" width="435" height="282" frameX="-2" frameY="0" frameWidth="542" frameHeight="285" />
+<SubTexture name="helicopterFriends0005" x="435" y="0" width="537" height="280" frameX="0" frameY="-2" frameWidth="542" frameHeight="285" />
+</TextureAtlas>

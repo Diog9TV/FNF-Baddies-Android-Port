@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="policeCars.png">
+<SubTexture name="policeChase0000" x="171" y="99" width="145" height="82" frameX="-34" frameY="-20" frameWidth="207" frameHeight="110" />
+<SubTexture name="policeChase0001" x="204" y="196" width="141" height="82" frameX="-34" frameY="-20" frameWidth="207" frameHeight="110" />
+<SubTexture name="policeChase0002" x="193" y="0" width="171" height="97" frameX="-17" frameY="-5" frameWidth="207" frameHeight="110" />
+<SubTexture name="policeChase0003" x="0" y="99" width="171" height="97" frameX="-18" frameY="-5" frameWidth="207" frameHeight="110" />
+<SubTexture name="policeChase0004" x="0" y="196" width="204" height="97" frameX="-2" frameY="-3" frameWidth="207" frameHeight="110" />
+<SubTexture name="policeChase0005" x="0" y="196" width="204" height="97" frameX="-2" frameY="-3" frameWidth="207" frameHeight="110" />
+<SubTexture name="policeChase0006" x="0" y="0" width="193" height="99" frameX="0" frameY="-1" frameWidth="207" frameHeight="110" />
+</TextureAtlas>
