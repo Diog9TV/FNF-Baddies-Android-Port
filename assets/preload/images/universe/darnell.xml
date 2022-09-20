@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="darnell.png">
+<SubTexture name="darnell0000" x="448" y="1190" width="480" height="488" frameX="0" frameY="-21" frameWidth="484" frameHeight="504" />
+<SubTexture name="darnell0001" x="448" y="1190" width="480" height="488" frameX="0" frameY="-19" frameWidth="484" frameHeight="504" />
+<SubTexture name="darnell0002" x="448" y="1190" width="480" height="488" frameX="0" frameY="-16" frameWidth="484" frameHeight="504" />
+<SubTexture name="darnell0003" x="448" y="1190" width="480" height="488" frameX="0" frameY="-15" frameWidth="484" frameHeight="504" />
+<SubTexture name="darnell0004" x="448" y="1190" width="480" height="488" frameX="0" frameY="-15" frameWidth="484" frameHeight="504" />
+<SubTexture name="darnell0005" x="448" y="1190" width="480" height="488" frameX="0" frameY="-15" frameWidth="484" frameHeight="504" />
+<SubTexture name="darnell0006" x="448" y="1190" width="480" height="488" frameX="0" frameY="-15" frameWidth="484" frameHeight="504" />
+<SubTexture name="fireBoom0000" x="928" y="1190" width="526" height="485" frameX="0" frameY="-145" frameWidth="749" frameHeight="630" />
+<SubTexture name="fireBoom0001" x="1454" y="1190" width="556" height="484" frameX="-1" frameY="-146" frameWidth="749" frameHeight="630" />
+<SubTexture name="fireBoom0002" x="0" y="0" width="729" height="612" frameX="-1" frameY="-18" frameWidth="749" frameHeight="630" />
+<SubTexture name="fireBoom0003" x="644" y="612" width="654" height="547" frameX="-1" frameY="-78" frameWidth="749" frameHeight="630" />
+<SubTexture name="fireBoom0004" x="0" y="612" width="644" height="578" frameX="-1" frameY="-53" frameWidth="749" frameHeight="630" />
+<SubTexture name="fireBoom0005" x="729" y="0" width="650" height="588" frameX="-1" frameY="-43" frameWidth="749" frameHeight="630" />
+<SubTexture name="fireBoom0006" x="1379" y="0" width="653" height="539" frameX="-1" frameY="-91" frameWidth="749" frameHeight="630" />
+<SubTexture name="fireBoom0007" x="1379" y="539" width="562" height="497" frameX="-1" frameY="-133" frameWidth="749" frameHeight="630" />
+<SubTexture name="fireBoom0008" x="0" y="1190" width="448" height="497" frameX="-1" frameY="-133" frameWidth="749" frameHeight="630" />
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jasmineShooting.png">
+<SubTexture name="jasmineCombat0000" x="991" y="1020" width="990" height="325" frameX="-6" frameY="-30" frameWidth="1015" frameHeight="358" />
+<SubTexture name="jasmineCombat0001" x="0" y="1348" width="988" height="325" frameX="-11" frameY="-31" frameWidth="1015" frameHeight="358" />
+<SubTexture name="jasmineCombat0002" x="0" y="0" width="991" height="355" frameX="-11" frameY="-1" frameWidth="1015" frameHeight="358" />
+<SubTexture name="jasmineCombat0003" x="978" y="689" width="1000" height="329" frameX="-11" frameY="-28" frameWidth="1015" frameHeight="358" />
+<SubTexture name="jasmineCombat0004" x="991" y="0" width="991" height="333" frameX="-20" frameY="-23" frameWidth="1015" frameHeight="358" />
+<SubTexture name="jasmineCombat0005" x="991" y="333" width="989" height="333" frameX="-29" frameY="-22" frameWidth="1015" frameHeight="358" />
+<SubTexture name="jasmineCombat0006" x="0" y="355" width="958" height="335" frameX="-29" frameY="-20" frameWidth="1015" frameHeight="358" />
+<SubTexture name="jasmineCombat0007" x="0" y="689" width="978" height="331" frameX="0" frameY="-20" frameWidth="1015" frameHeight="358" />
+<SubTexture name="jasmineCombat0008" x="0" y="1020" width="991" height="328" frameX="-11" frameY="-28" frameWidth="1015" frameHeight="358" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="world.png">
+<SubTexture name="glowingShits0000" x="699" y="844" width="696" height="792" frameX="-191" frameY="-193" frameWidth="1755" frameHeight="1961" />
+<SubTexture name="glowingShits0001" x="1395" y="844" width="678" height="777" frameX="-205" frameY="-207" frameWidth="1755" frameHeight="1961" />
+<SubTexture name="glowingShits0002" x="0" y="844" width="699" height="797" frameX="-189" frameY="-189" frameWidth="1755" frameHeight="1961" />
+<SubTexture name="glowingShits0003" x="1524" y="0" width="741" height="827" frameX="-150" frameY="-160" frameWidth="1755" frameHeight="1961" />
+<SubTexture name="glowingShits0004" x="763" y="0" width="761" height="843" frameX="-132" frameY="-144" frameWidth="1755" frameHeight="1961" />
+<SubTexture name="glowingShits0005" x="0" y="0" width="763" height="844" frameX="-131" frameY="-142" frameWidth="1755" frameHeight="1961" />
+</TextureAtlas>

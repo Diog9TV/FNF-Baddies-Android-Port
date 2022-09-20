@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bops.png">
+<SubTexture name="tankBops0000" x="0" y="0" width="1177" height="481" frameX="-4" frameY="-2" frameWidth="1184" frameHeight="482" />
+<SubTexture name="tankBops0001" x="0" y="0" width="1177" height="481" frameX="-4" frameY="-1" frameWidth="1184" frameHeight="482" />
+<SubTexture name="tankBops0002" x="0" y="0" width="1177" height="481" frameX="-4" frameY="0" frameWidth="1184" frameHeight="482" />
+<SubTexture name="tankBops0003" x="0" y="0" width="1177" height="481" frameX="-4" frameY="0" frameWidth="1184" frameHeight="482" />
+<SubTexture name="tankBops0004" x="0" y="0" width="1177" height="481" frameX="-4" frameY="0" frameWidth="1184" frameHeight="482" />
+<SubTexture name="tankBops0005" x="0" y="0" width="1177" height="481" frameX="-4" frameY="0" frameWidth="1184" frameHeight="482" />
+<SubTexture name="tankBops0006" x="0" y="0" width="1177" height="481" frameX="-4" frameY="0" frameWidth="1184" frameHeight="482" />
+</TextureAtlas>

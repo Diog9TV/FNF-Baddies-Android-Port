@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="picoMia.png">
+<SubTexture name="pico0000" x="1106" y="0" width="1104" height="551" frameX="0" frameY="-7" frameWidth="1115" frameHeight="558" />
+<SubTexture name="pico0001" x="0" y="0" width="1106" height="556" frameX="0" frameY="-2" frameWidth="1115" frameHeight="558" />
+<SubTexture name="pico0002" x="0" y="1106" width="1114" height="545" frameX="0" frameY="-13" frameWidth="1115" frameHeight="558" />
+<SubTexture name="pico0003" x="0" y="556" width="1108" height="550" frameX="0" frameY="-8" frameWidth="1115" frameHeight="558" />
+</TextureAtlas>
