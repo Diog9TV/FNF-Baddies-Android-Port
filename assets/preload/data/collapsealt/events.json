@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "universeAlt",
+		"player1": "CasanovaAlt",
+		"player2": "neko",
+		"player3": null,
+		"events": [
+			[
+				46265.0602409639,
+				[
+					[
+						"Change Character",
+						"2",
+						"nene"
+					]
+				]
+			],
+			[
+				70933.7349397591,
+				[
+					[
+						"Change Character",
+						"1",
+						"neko2"
+					]
+				]
+			],
+			[
+				75813.2530120483,
+				[
+					[
+						"Change Character",
+						"3",
+						"neneTroll"
+					]
+				]
+			],
+			[
+				75903.6144578314,
+				[
+					[
+						"Play Animation",
+						"kiss",
+						"GF"
+					]
+				]
+			],
+			[
+				76807.2289156627,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Damn"
+					]
+				]
+			],
+			[
+				76897.5903614459,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				80512.0481927712,
+				[
+					[
+						"Change Character",
+						"1",
+						"neko"
+					]
+				]
+			],
+			[
+				81596.3855421687,
+				[
+					[
+						"Change Character",
+						"BF",
+						"CasanovaAlt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "tankMan",
+		"bpm": 166,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "collapsealt"
+	}
+}
