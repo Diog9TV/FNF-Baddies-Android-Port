@@ -1,0 +1,159 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "futureCity",
+		"player1": "BF-Cassette",
+		"player2": "CG",
+		"player3": null,
+		"events": [
+			[
+				42814.5695364238,
+				[
+					[
+						"Change Character",
+						"1",
+						"CGG"
+					]
+				]
+			],
+			[
+				43609.2715231788,
+				[
+					[
+						"Screen Shake",
+						"0.2, 1",
+						""
+					]
+				]
+			],
+			[
+				44006.6225165563,
+				[
+					[
+						"Screen Shake",
+						"0.2, 1",
+						""
+					]
+				]
+			],
+			[
+				44304.6357615894,
+				[
+					[
+						"Screen Shake",
+						"0.2, 1",
+						""
+					]
+				]
+			],
+			[
+				45198.6754966887,
+				[
+					[
+						"Screen Shake",
+						"0.2, 1",
+						""
+					]
+				]
+			],
+			[
+				46589.4039735099,
+				[
+					[
+						"Change Character",
+						"1",
+						"CGGcutscene"
+					]
+				]
+			],
+			[
+				46688.7417218543,
+				[
+					[
+						"Play Animation",
+						"uhoh",
+						"Dad"
+					]
+				]
+			],
+			[
+				47284.7682119205,
+				[
+					[
+						"Screen Shake",
+						"",
+						"0.2, 1"
+					]
+				]
+			],
+			[
+				49668.8741721854,
+				[
+					[
+						"Change Character",
+						"1",
+						"CGG"
+					]
+				]
+			],
+			[
+				49768.2119205298,
+				[
+					[
+						"Screen Shake",
+						"",
+						"0.2, 1"
+					]
+				]
+			],
+			[
+				50860.9271523179,
+				[
+					[
+						"Change Character",
+						"1",
+						"CG"
+					]
+				]
+			],
+			[
+				56821.1920529802,
+				[
+					[
+						"Screen Shake",
+						"",
+						"0.2, 1"
+					]
+				]
+			],
+			[
+				57119.2052980133,
+				[
+					[
+						"Change Character",
+						"1",
+						"CGG"
+					]
+				]
+			],
+			[
+				58410.5960264901,
+				[
+					[
+						"Screen Shake",
+						"",
+						"0.2, 5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "CG-GF",
+		"bpm": 151,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "donnie-soft"
+	}
+}
