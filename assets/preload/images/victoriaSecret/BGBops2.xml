@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BGBops2.png">
+<SubTexture name="BGbops0000" x="0" y="0" width="508" height="518" frameX="-10" frameY="-4" frameWidth="519" frameHeight="518" />
+<SubTexture name="BGbops0001" x="0" y="0" width="508" height="518" frameX="-10" frameY="-3" frameWidth="519" frameHeight="518" />
+<SubTexture name="BGbops0002" x="0" y="0" width="508" height="518" frameX="-10" frameY="-1" frameWidth="519" frameHeight="518" />
+<SubTexture name="BGbops0003" x="0" y="0" width="508" height="518" frameX="-10" frameY="0" frameWidth="519" frameHeight="518" />
+<SubTexture name="BGbops0004" x="0" y="0" width="508" height="518" frameX="-10" frameY="0" frameWidth="519" frameHeight="518" />
+<SubTexture name="BGbops0005" x="0" y="0" width="508" height="518" frameX="-10" frameY="0" frameWidth="519" frameHeight="518" />
+<SubTexture name="BGbops0006" x="0" y="0" width="508" height="518" frameX="-10" frameY="0" frameWidth="519" frameHeight="518" />
+</TextureAtlas>
