@@ -1,5 +1,5 @@
 local allowCountdown = false;
-local playDialogue = false;
+local playDialogue = true;
 
 function onStartCountdown()
 	if not allowCountdown and isStoryMode and not seenCutscene then --Block the first countdown
@@ -12,7 +12,7 @@ function onStartCountdown()
 
 		setProperty('inCutscene', true);
 		runTimer('startDialogue', 0.8);
-		playDialogue = false;
+		playDialogue = true;
 		return Function_Stop;
 	end
 	return Function_Continue;
